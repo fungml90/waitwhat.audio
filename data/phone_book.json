@@ -49,6 +49,10 @@
     {
       "name": "DM6",
       "file": "BGVP/BGVP DM6"
+    },
+    {
+      "name": "NS10 Pro",
+      "file": "BGVP/BGVP NS10 Pro"
     }
   ]
 },
