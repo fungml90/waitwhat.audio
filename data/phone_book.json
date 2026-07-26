@@ -57,6 +57,36 @@
   ]
 },
 {
+  "name": "Crinear",
+  "phones": [
+    {
+      "name": "Monolith",
+      "file": "Crinear/Crinear Monolith"
+    },
+    {
+      "name": "Reference",
+      "file": "Crinear/Crinear Reference"
+    }
+  ]
+},
+{
+  "name": "Final Audio",
+  "phones": [
+    {
+      "name": "E2000",
+      "file": "Final Audio/Final Audio E2000"
+    },
+    {
+      "name": "E5000",
+      "file": "Final Audio/Final Audio E5000"
+    },
+    {
+      "name": "S4000",
+      "file": "Final Audio/Final Audio S4000"
+    }
+  ]
+},
+{
   "name": "GK",
   "phones": [
     {
@@ -148,6 +178,15 @@
       "name": "ZS10 Pro 2",
       "file": "KZ/KZ ZS10Pro2"
     }     
+  ]
+},
+{
+  "name": "Maestraudio",
+  "phones": [
+    {
+      "name": "MAPro1000 Boost Red",
+      "file": "Maestraudio/Maestraudio MAPro1000 Boost Red"
+    }
   ]
 },
 {
