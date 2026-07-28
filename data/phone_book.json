@@ -35,6 +35,15 @@
   ]
   },
 {
+  "name": "Acoustune",
+  "phones": [
+    {
+      "name": "HS1750CU Brass",
+      "file": "Acoustune/Acoustune HS1750CU Brass"
+    }
+  ]
+},  
+{
   "name": "AFUL",
   "phones": [
     {
@@ -59,6 +68,10 @@
 {
   "name": "Crinear",
   "phones": [
+    {
+      "name": "Daybreak",
+      "file": "Crinear/Crinear Daybreak"
+    },
     {
       "name": "Project Monolith",
       "file": "Crinear/Crinear Monolith"
@@ -118,6 +131,19 @@
   ]
 },
 {
+  "name": "intime",
+  "phones": [
+    {
+      "name": "SORA NEO",
+      "file": "intime/intime SORA NEO"
+    },
+    {
+      "name": "SORA Ti3 Edition2",
+      "file": "intime/intime SORA Ti3 Edition2"
+    }
+  ]
+},
+{
   "name": "Kefine",
   "phones": [
     {
@@ -140,6 +166,10 @@
     {
       "name": "Astral",
       "file": "Kiwi Ears/Kiwi Ears Astral"
+    },
+    {
+      "name": "Halcyon",
+      "file": "Kiwi Ears/Kiwi Ears Halcyon"
     }
   ]
 },
